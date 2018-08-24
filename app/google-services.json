@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1045200107898",
+    "firebase_url": "https://text-recognizer-e393f.firebaseio.com",
+    "project_id": "text-recognizer-e393f",
+    "storage_bucket": "text-recognizer-e393f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045200107898:android:8865cb81b7ed9aae",
+        "android_client_info": {
+          "package_name": "com.hylsonk.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045200107898-2v3du40jfaoaedvo95banhlum9oah37c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb62Hf-f1BidDlsya3I8qTQeGxsKiLYfg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
