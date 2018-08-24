@@ -74,6 +74,7 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+//    Detecção de Textos em bloco
     private void detectText() {
         FirebaseVisionImage image = FirebaseVisionImage.fromBitmap(bitmap);
         FirebaseVisionTextDetector detector = FirebaseVision.getInstance().getVisionTextDetector();

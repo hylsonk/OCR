@@ -30,12 +30,12 @@
         android:layout_alignParentEnd="true"
         android:layout_marginEnd="43dp"
         android:text="Detect"/>
+
     <TextView
         android:id="@+id/txtView"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="104dp"/>
+        android:layout_above="@+id/snapBtn"
+        android:layout_alignParentStart="true" />
 
 </RelativeLayout>
